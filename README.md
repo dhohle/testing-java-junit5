@@ -34,3 +34,6 @@ GitHub Issues will not be addressed.
   - In Maven
   - In Gradle
     
+
+@ExtendsWith(SpringExtension.class)
+@SpringBootTest
